@@ -30,7 +30,7 @@ See the current progress here:
 
 and see the rendered preview here:
 
-👉 ![Logo preview](preview.png)
+👉 ![Logo preview](https://github.com/eG-dev/techsummit-logocollab/blob/render/preview.png)
 
 ## Tip
 
